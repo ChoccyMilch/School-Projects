@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rabbi\\source\\repos\\MonthlyTaxReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{258C8086-039E-454D-B859-87A122E3DFF9}|MonthlyTaxReport\\MonthlyTaxReport.vcxproj|C:\\Users\\rabbi\\source\\repos\\MonthlyTaxReport\\MonthlyTaxReport\\MonthlyTaxReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{258C8086-039E-454D-B859-87A122E3DFF9}|MonthlyTaxReport\\MonthlyTaxReport.vcxproj|solutionrelative:MonthlyTaxReport\\MonthlyTaxReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonthlyTaxReport.cpp",
+              "DocumentMoniker": "C:\\Users\\rabbi\\source\\repos\\MonthlyTaxReport\\MonthlyTaxReport\\MonthlyTaxReport.cpp",
+              "RelativeDocumentMoniker": "MonthlyTaxReport\\MonthlyTaxReport.cpp",
+              "ToolTip": "C:\\Users\\rabbi\\source\\repos\\MonthlyTaxReport\\MonthlyTaxReport\\MonthlyTaxReport.cpp",
+              "RelativeToolTip": "MonthlyTaxReport\\MonthlyTaxReport.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T23:15:04.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

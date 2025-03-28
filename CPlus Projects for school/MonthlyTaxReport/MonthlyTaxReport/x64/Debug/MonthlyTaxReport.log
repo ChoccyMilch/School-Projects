@@ -1,0 +1,4 @@
+﻿  MonthlyTaxReport.cpp
+C:\Users\rabbi\source\repos\MonthlyTaxReport\MonthlyTaxReport\MonthlyTaxReport.cpp(14,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rabbi\source\repos\MonthlyTaxReport\MonthlyTaxReport\MonthlyTaxReport.cpp(15,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MonthlyTaxReport.vcxproj -> C:\Users\rabbi\source\repos\MonthlyTaxReport\x64\Debug\MonthlyTaxReport.exe
