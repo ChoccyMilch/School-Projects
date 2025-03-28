@@ -1,7 +1,3 @@
-/*A retail company must file a monthly sales tax report listing the total sales for the month, and the amount of state and county sales tax collected. The state sales tax rate is 4 percent and the county sales tax rate is 2 percent. Design a modular program that asks the user to enter the total sales for the month. Using this amount, the application should calculate and display the following:
-                  • The amount of county sales tax
-                  • The amount of state sales tax
-                  • The total sales tax (county plus state)*/
 #include <iostream>
 #include <string>
 
